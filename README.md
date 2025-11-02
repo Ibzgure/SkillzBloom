@@ -66,5 +66,3 @@ Database | Firebase / Supabase (finalizing)
 Auth | Clerk / Firebase Auth  
 AI | Gemini / OpenRouter API  
 Deployment | Vercel  
-
-
