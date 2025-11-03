@@ -1,0 +1,16 @@
+node_modules
+
+# clerk configuration (can include secrets)
+/.clerk/
+.next/
+out/
+dist/
+coverage/
+
+# env & local config
+.env*
+.env.local
+
+# system
+.DS_Store
+*.log

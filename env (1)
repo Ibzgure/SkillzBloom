@@ -1,0 +1,20 @@
+# Clerk
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_ZnJlZS1hbnRlYXRlci01OC5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_ubeFn4f0Cob7hwkI5s5SEBt86Qb5mL2ksFO6idu0EP
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/dashboard
+NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/onboarding
+CLERK_WEBHOOK_SECRET=whsec_q3yvN0DmS2z6Wvgl3jgMDAM3fs1S2u/1
+
+# Firebase (Client SDK)
+NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyBK2vejQrG35V3DYHr2SceIb_bNNPvskbw
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=tryagain-c949c.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=tryagain-c949c
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=tryagain-c949c.appspot.com
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=133262302571
+NEXT_PUBLIC_FIREBASE_APP_ID=1:133262302571:web:7c826a78ffd34c7071002e
+
+# Firebase Admin (Server SDK)
+# IMPORTANT: Make sure project_id matches the one above (e.g., tryagain-c949c)
+FIREBASE_SERVICE_ACCOUNT_KEY={"type":"service_account","project_id":"tryagain-c949c","private_key_id":"REPLACE_ME","private_key":"-----BEGIN PRIVATE KEY-----\nREPLACE_WITH_YOUR_REAL_KEY_LINES_ESCAPED_WITH_\\n\n-----END PRIVATE KEY-----\n","client_email":"firebase-adminsdk-XXXX@tryagain-c949c.iam.gserviceaccount.com","client_id":"REPLACE_ME","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_x509_cert_url":"https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-XXXX%40tryagain-c949c.iam.gserviceaccount.com"}
